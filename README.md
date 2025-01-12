@@ -13,7 +13,7 @@ Undergrad (current junier) studying CS and Applied Math at UC Davis (class of 26
 - Software Development
 
 ## ❓ Where are the pinned projects?
-Most of my projects are unable to be publicized while I'm a current student. Code is available to be viewed by request.
+Most of my projects are unable to be publicized at this time. Code is available to be viewed by request.
 
 <!--
 **Gamacore/Gamacore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
