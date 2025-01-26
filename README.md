@@ -3,6 +3,7 @@
 Undergrad (current junier) studying CS and Applied Math at UC Davis (class of 26')
 
 ## 🔭 I’m currently working on
+- M-Recc: a scalable, adaptable system architecture designed for automated setup and integration of various recommenders
 - PROJECT NEXUS: a multipurpose online platform designed to showcase personal projects
 - Moonshine: a movement-based 2D platformer
 
