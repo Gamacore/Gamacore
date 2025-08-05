@@ -1,6 +1,6 @@
 ## Hi there! I'm Michael. 👋
 
-Undergrad (current junier) studying CS and Applied Math at UC Davis (class of 26')
+Undergrad (current junior) studying CS and Applied Math at UC Davis (class of 26')
 
 ## 🔭 I’m currently working on
 - M-Recc: a scalable, adaptable system architecture designed for automated setup and integration of various recommenders
